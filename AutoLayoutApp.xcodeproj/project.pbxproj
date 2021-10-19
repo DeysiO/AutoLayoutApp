@@ -13,6 +13,7 @@
 		6AA3DC5D271DB7BA005F52F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3DC5B271DB7BA005F52F6 /* Main.storyboard */; };
 		6AA3DC5F271DB7BF005F52F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3DC5E271DB7BF005F52F6 /* Assets.xcassets */; };
 		6AA3DC62271DB7BF005F52F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3DC60271DB7BF005F52F6 /* LaunchScreen.storyboard */; };
+		6AA3DC6A271E553E005F52F6 /* alarm_sound.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 6AA3DC69271E553E005F52F6 /* alarm_sound.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		6AA3DC5E271DB7BF005F52F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		6AA3DC61271DB7BF005F52F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		6AA3DC63271DB7BF005F52F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		6AA3DC69271E553E005F52F6 /* alarm_sound.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = alarm_sound.mp3; path = ../../../../Downloads/alarm_sound.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -63,6 +65,7 @@
 				6AA3DC5E271DB7BF005F52F6 /* Assets.xcassets */,
 				6AA3DC60271DB7BF005F52F6 /* LaunchScreen.storyboard */,
 				6AA3DC63271DB7BF005F52F6 /* Info.plist */,
+				6AA3DC69271E553E005F52F6 /* alarm_sound.mp3 */,
 			);
 			path = AutoLayoutApp;
 			sourceTree = "<group>";
@@ -127,6 +130,7 @@
 			files = (
 				6AA3DC62271DB7BF005F52F6 /* LaunchScreen.storyboard in Resources */,
 				6AA3DC5F271DB7BF005F52F6 /* Assets.xcassets in Resources */,
+				6AA3DC6A271E553E005F52F6 /* alarm_sound.mp3 in Resources */,
 				6AA3DC5D271DB7BA005F52F6 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
